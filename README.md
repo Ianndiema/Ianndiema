@@ -6,7 +6,7 @@
 
 💞️ I'm looking to collaborate on exciting Flutter projects where I can contribute my expertise in building cross-platform applications.
 
-📫 How to reach me: Feel free to connect with me on GitHub @Ianndiema or reach out via email at ndiemakian@gmail.com I'm open to discussions, collaborations, and sharing knowledge with fellow developers.
+📫 How to reach me: Feel free to connect with me on GitHub @Ianndiema, I'm open to discussions, collaborations, and sharing knowledge with fellow developers.
 
 
 
